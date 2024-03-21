@@ -7,7 +7,7 @@
 
 nav {
   height: 80px;
-  background: #000;
+  background: #2769B7;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -29,11 +29,11 @@ nav a {
 
 .contact-content a {
   text-decoration: underline;
-  color: #000;
+  color: #fff;
 }
 
 .contact-content a:hover {
-  color: #fff;
+  color: #2769B7;
 }
 
 nav a:hover {
@@ -41,7 +41,7 @@ nav a:hover {
 }
 
 .hero {
-  background: #ed69b5;
+  background: #151923;
 }
 
 .hero-container {
@@ -55,7 +55,7 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  color: #000;
+  color: #fff;
   padding: 0rem 2rem;
 }
 
@@ -76,7 +76,7 @@ button {
   font-size: 1rem;
   border: none;
   color: #fff;
-  background: #000;
+  background: #2769B7;
   cursor: pointer;
   border-radius: 50px;
 }
@@ -91,6 +91,7 @@ button:hover {
   flex-direction: column;
   align-items: flex-start;
   align-items: center;
+  color: #fff;
   padding: 0rem 2rem;
 }
 
@@ -110,7 +111,7 @@ button:hover {
 .contact-head {
   justify-content: center;
   align-items: center;
-
+  color: #fff;
   font-size: 50px;
   font-weight: bold;
   padding-top: 20%;
